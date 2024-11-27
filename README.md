@@ -10,3 +10,18 @@ Game Rules:
 4. Turns: Players take turns placing their marks on the grid. On each turn, a player selects an empty cell (row and column) to place their symbol.
 5. Winning Condition: A player wins if they manage to place three of their marks in a row, whether it's horizontally, vertically, or diagonally.
 6. Draw Condition: If all the cells on the grid are filled and no player has won, the game ends in a draw.
+
+Winning Patterns:
+
+To win, a player must align their marks in one of the following patterns:
+
+1. Horizontal line: Three marks in any of the three rows.
+2. Vertical line: Three marks in any of the three columns.
+3. Diagonal line: Three marks along either of the two diagonals.
+
+End of the Game:
+
+1. Winning: The game ends immediately when a player has aligned three marks in a row, and that player is declared the winner.
+2. Draw: If all the spaces on the grid are filled, but no player has won, the game ends in a draw.
+
+
